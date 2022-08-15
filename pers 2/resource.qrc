@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Картинка1.png</file>
+        <file>Картинка2.png</file>
+        <file>Картинка6.jpg</file>
+        <file>Картинка7.jpg</file>
+        <file>Картинка8.jpg</file>
+        <file>Картинка9.jpg</file>
+        <file>Картинка11.jpg</file>
+        <file>Картинка10.jpg</file>
+        <file>Картинка12.jpg</file>
+        <file>Картинка13.jpg</file>
+        <file>Картинка14.jpg</file>
+        <file>Картинка15.jpg</file>
+    </qresource>
+</RCC>
